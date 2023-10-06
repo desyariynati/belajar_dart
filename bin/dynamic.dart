@@ -1,6 +1,11 @@
+void main() {
 dynamic variable =100;
-Print(variable;
-Variable  = true;
-Print(variable);
-Variable =’Desy’;
-Print(variable);
+print(variable);
+
+variable  = true;
+print(variable);
+
+variable ='Desy';
+print(variable);
+
+}
