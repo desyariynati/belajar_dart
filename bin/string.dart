@@ -1,6 +1,6 @@
 void main () {
-String  firstName ='Eko';
-String LastName  = "Khannedy";
+String  firstName ='Desy';
+String LastName  = "Ariyanti";
 
 print(firstName);
 print(LastName);
